@@ -181,9 +181,7 @@ fieldset{
 
 .search-form__submit-button{
   width: 194px;
-  position: absolute;
-  bottom: 0;
-  right: 0;
+  margin-top: auto;
 }
 
 .content__details{
