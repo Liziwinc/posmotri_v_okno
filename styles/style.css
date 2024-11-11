@@ -245,9 +245,6 @@ fieldset {
   font-size: 18px;
   line-height: 16px;
   color: #FFFFFF;
-  white-space:wrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 
 .content__video-card-description-container {
