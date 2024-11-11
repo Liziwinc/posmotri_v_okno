@@ -56,7 +56,7 @@ fieldset {
 }
 
 .result__video-container {
-  max-height: 386px;
+  height: 386px;
   width: 711px;
   margin-bottom: 16px;
   margin-top: 10px;
@@ -203,7 +203,6 @@ fieldset {
 
 .content__list {
   height: 296px;
-  ;
   overflow-y: auto;
   position: relative;
 }
@@ -246,7 +245,7 @@ fieldset {
   font-size: 18px;
   line-height: 16px;
   color: #FFFFFF;
-  white-space: nowrap;
+  white-space:wrap;
   overflow: hidden;
   text-overflow: ellipsis;
 }
